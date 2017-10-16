@@ -38,3 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Wavs
 [sample](https://github.com/wangwenfu/wangwenfu.github.io/blob/master/hybrid_1/demos/news01.wav)
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="https://github.com/wangwenfu/wangwenfu.github.io/blob/master/hybrid_1/demos/news01.wav" /></audio></td>
+  </tr>
+</table>
