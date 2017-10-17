@@ -1,3 +1,6 @@
+## About
+Currently I am a Ph.D. candidate at Institute of Automation, Chinese Academy of Sciences (CASIA). My research interests include speech synthesis, speech recognition and deep learning.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wangwenfu/wangwenfu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
