@@ -2,7 +2,7 @@
 Currently I am a Ph.D. candidate at Institute of Automation, Chinese Academy of Sciences (CASIA). My research interests include speech synthesis, speech recognition and deep learning.
 
 ## Projects
-[CN-EN TTS](https://github.com/wangwenfu/wangwenfu.github.io/cnenhybrid)
+[CN-EN TTS](https://github.com/wangwenfu/wangwenfu.github.io/tree/master/cnenhybrid)
 
 ## Welcome to GitHub Pages
 
