@@ -4,7 +4,7 @@ Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 ### Abstract
 
 ### Paper
-[Link](http://www.baidu.com)
+>[Link](http://www.baidu.com)
 
 ### Audio Samples
 #### 1. Chinese-English Hybrid Synthesis
