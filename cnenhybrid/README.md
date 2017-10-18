@@ -7,3 +7,4 @@ Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 [Link](http://www.baidu.com)
 
 ### Audio Samples
+#### 1. Chinese-English Hybrid Sybthesis
