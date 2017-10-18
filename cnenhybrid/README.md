@@ -11,7 +11,7 @@ Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 test01: **"好好学习，天天向上。"**
 <table style="border: none;">
   <tr>
-  <td style="border: none; vertical-align: middle;">Tacotron:&#160;</td>
+  <td style="border: none; vertical-align: middle;">Tacotron:&#160;&#160;&#160;&#160;</td>
   <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test01_tacotron.wav" /></audio></td>
   </tr>
 </table>
