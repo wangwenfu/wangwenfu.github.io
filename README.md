@@ -2,7 +2,7 @@
 Currently I am a Ph.D. candidate at Institute of Automation, Chinese Academy of Sciences (CASIA). My research interests include speech synthesis, speech recognition and deep learning.
 
 ## Projects
-[CN-EN TTS](https://github.com/wangwenfu/wangwenfu.github.io/tree/master/cnenhybrid)
+[CN-EN TTS](https://wangwenfu.github.io/cnenhybrid/)
 
 ## Welcome to GitHub Pages
 
@@ -41,13 +41,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### Wavs
-[sample](https://github.com/wangwenfu/wangwenfu.github.io/blob/master/hybrid_1/demos/news01.wav)
-
-<table style="border: none;">
-  <tr>
-  <td style="border: none; vertical-align: middle;">Donald:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="hybrid_1/demos/news01.wav" /></audio></td>
-  </tr>
-</table>
