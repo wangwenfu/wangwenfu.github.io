@@ -8,6 +8,6 @@ Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 
 ### Audio Samples
 #### 1. Chinese-English Hybrid Synthesis
-##### 1.1 Our model vs Tacotron
+##### 1.1 Our model *vs* Tacotron
 
 ##### 1.2 Some other samples
