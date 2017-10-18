@@ -11,14 +11,14 @@ Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 test01: **"好好学习，天天向上。"**
 <table style="border: none;">
   <tr>
-  <td style="border: none; vertical-align: right;">Tacotron: </td>
+  <td style="border: none; vertical-align: middle;">Tacotron :</td>
   <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test01_tacotron.wav" /></audio></td>
   </tr>
 </table>
  
 <table style="border: none;">
   <tr>
-  <td style="border: none; vertical-align: right;">Our model:</td>
+  <td style="border: none; vertical-align: middle;">Our model:</td>
   <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test01_ours.wav" /></audio></td>
   </tr>
 </table>
