@@ -7,11 +7,11 @@ Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 ### Audio Samples
 #### 1. Chinese-English Hybrid Synthesis
 ##### 1.1 Our model *vs* Tacotron
-test01 "好好学习，天天向上。"
+test01: **"好好学习，天天向上。"**
 
 <table style="border: none;">
   <tr>
-  <td style="border: none; vertical-align: middle;">Tacotron:</td>
+  <td style="border: none; vertical-align: middle;">Tacotron: </td>
   <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test01_tacotron.wav" /></audio></td>
   </tr>
 </table>
