@@ -1,12 +1,12 @@
 **Towards End-to-end Text-to-speech for Chinese-English Hybrid and Multi-speaker Synthesis**   
 Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 
-### Abstract
+## Abstract
 
 
-### Audio Samples
-#### 1. Chinese-English Hybrid Synthesis
-##### 1.1 Our model *vs* Tacotron
+## Audio Samples
+### 1. Chinese-English Hybrid Synthesis
+#### 1.1 Our model *vs* Tacotron
 
 test01: **"好好学习，天天向上。"**
 <table style="border: none;">
@@ -38,7 +38,7 @@ test02: **"红红火火，和和美美，团团圆圆。"**
   </tr>
 </table>
 
-##### 1.2 Some other samples
+#### 1.2 Some other samples
 
 test03: **"北京时间十六日晚十点，多国科学家宣布探测到中子星引力波事件，引发广泛关注。"**
 <table style="border: none;">
