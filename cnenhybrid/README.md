@@ -56,7 +56,7 @@ test04: **"此次引力波探测的一大优点是不仅能“听到”，还能
   </tr>
 </table>
 
-test05: **"马云又为年轻人打call：相信年轻人，不用担忧未来。"**
+test05: **"马云又为年轻人打call：相信年轻人，不要担忧未来。"**
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">Our model:</td>
