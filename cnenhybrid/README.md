@@ -56,6 +56,14 @@ test04: **"此次引力波探测的一大优点是不仅能“听到”，还能
   </tr>
 </table>
 
+test04: **"如果我们今天没有解决方案，不等于我们的孩子没有解决方案。"**
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Our model:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/news07.wav" /></audio></td>
+  </tr>
+</table>
+
 test05: **"马云又为年轻人打call：相信年轻人，不要担忧未来。"**
 <table style="border: none;">
   <tr>
