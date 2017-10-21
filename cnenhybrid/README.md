@@ -76,3 +76,24 @@ test06: **"马云又为年轻人打call：相信年轻人，不要担忧未来�
 
 ### 3. Speaker Adaption
 
+test01: **"端到端语音合成。"**
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">25 min:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test02_adpt_25min.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">18 min:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test02_adpt_18min.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">10 min:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test02_adpt_10min.wav" /></audio></td>
+  </tr>
+</table>
