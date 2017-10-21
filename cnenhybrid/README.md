@@ -5,7 +5,7 @@ Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
 
 
 ## Audio Samples
-### 1. Chinese-English Hybrid Synthesis
+### 1. Chinese-English Hybrid TTS
 #### 1.1 Our model *vs* Tacotron
 
 test01: **"好好学习，天天向上。"**
@@ -72,4 +72,7 @@ test06: **"马云又为年轻人打call：相信年轻人，不要担忧未来�
   </tr>
 </table>
 
+### 2. Multi-speaker TTS
+
+### 3. Speaker Adaption
 
