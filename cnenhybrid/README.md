@@ -138,21 +138,21 @@ test01: **"端到端语音合成。"**
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">25 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test02_adpt_25min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/test02_adpt_25min.wav" /></audio></td>
   </tr>
 </table>
 
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">18 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test02_adpt_18min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/test02_adpt_18min.wav" /></audio></td>
   </tr>
 </table>
 
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">10 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test02_adpt_10min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/test02_adpt_10min.wav" /></audio></td>
   </tr>
 </table>
 
@@ -160,21 +160,21 @@ test02: **"中国拟放开汽车、电子等领域外资股比限制。"**
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">25 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/news03_adpt_25min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/news03_adpt_25min.wav" /></audio></td>
   </tr>
 </table>
 
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">18 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/news03_adpt_18min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/news03_adpt_18min.wav" /></audio></td>
   </tr>
 </table>
 
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">10 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/news03_adpt_10min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/news03_adpt_10min.wav" /></audio></td>
   </tr>
 </table>
 
@@ -182,20 +182,20 @@ test03: **"金州勇士队四比一克里夫兰骑士队，夺取总冠军。"**
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">25 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test13_adpt_25min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/test13_adpt_25min.wav" /></audio></td>
   </tr>
 </table>
 
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">18 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test13_adpt_18min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/test13_adpt_18min.wav" /></audio></td>
   </tr>
 </table>
 
 <table style="border: none;">
   <tr>
   <td style="border: none; vertical-align: middle;">10 min:</td>
-  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/test13_adpt_10min.wav" /></audio></td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/adaption/test13_adpt_10min.wav" /></audio></td>
   </tr>
 </table>
