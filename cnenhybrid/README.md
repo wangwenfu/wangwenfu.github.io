@@ -74,6 +74,64 @@ test06: **"马云又为年轻人打call：相信年轻人，不要担忧未来�
 
 ### 2. Multi-speaker TTS
 
+test01: **"刘国梁在微博中称，我认为中国体育改革势在必行。"**
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker001:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/news04_spk001.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker012:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/news04_spk012.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker091:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/news04_spk091.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker012:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/news04_spk112.wav" /></audio></td>
+  </tr>
+</table>
+
+test02: **"他曾培养出多名世界冠军。"**
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker001:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/test06_spk001.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker012:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/test06_spk012.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker091:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/test06_spk091.wav" /></audio></td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+  <td style="border: none; vertical-align: middle;">Speaker012:</td>
+  <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/test06_spk112.wav" /></audio></td>
+  </tr>
+</table>
+
 ### 3. Speaker Adaption
 
 test01: **"端到端语音合成。"**
