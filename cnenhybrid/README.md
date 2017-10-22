@@ -98,7 +98,7 @@ test01: **"刘国梁在微博中称，我认为中国体育改革势在必行。
 
 <table style="border: none;">
   <tr>
-  <td style="border: none; vertical-align: middle;">Speaker012:</td>
+  <td style="border: none; vertical-align: middle;">Speaker112:</td>
   <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/news04_spk112.wav" /></audio></td>
   </tr>
 </table>
@@ -127,7 +127,7 @@ test02: **"他曾培养出多名世界冠军。"**
 
 <table style="border: none;">
   <tr>
-  <td style="border: none; vertical-align: middle;">Speaker012:</td>
+  <td style="border: none; vertical-align: middle;">Speaker112:</td>
   <td style="border: none; vertical-align: middle;"><audio controls=""><source src="demos/multispk/test06_spk112.wav" /></audio></td>
   </tr>
 </table>
