@@ -1,5 +1,5 @@
 **Syllable-based End-to-end Text-to-speech Synthesis for Mandarin Chinese**   
-Wenfu Wang, Meng Meng, Peng Gao, Bo Xu
+Wenfu Wang, Bo Xu, Meng Meng
 
 ## Abstract
 The complex pipeline design of a conventional text-to-speech (TTS) system requires much significant domain expertise and human engineering. Building such a system is nontrivial. This paper presents a neural approach towards end-to-end Mandarin Chinese text-to-speech synthesis based on syllables. We propose an improved model based on Google's Tacotron to cope with this challenging task. Our model can synthesize speech directly from Mandarin tonal syllables (a.k.a. pinyin), achieving a mean opinion score (MOS) of 3.81 in naturalness. We also present a multi-speaker variant which synthesizes speech with each speaker's timbre and speaking style well retained with only some simple modifications to the decoder. Furthermore, speaker adaption is investigated based on the trained multi-speaker model. Experiments show it can transfer to a new voice producing acceptable quality using as little as 10 minutes of data, making it a promising way to quickly build a TTS system.
